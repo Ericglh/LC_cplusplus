@@ -123,6 +123,60 @@ LC_cplusplus/fast:
 	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/build
 .PHONY : LC_cplusplus/fast
 
+Array/PlusOne_66/PlusOne.o: Array/PlusOne_66/PlusOne.cpp.o
+
+.PHONY : Array/PlusOne_66/PlusOne.o
+
+# target to build an object file
+Array/PlusOne_66/PlusOne.cpp.o:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o
+.PHONY : Array/PlusOne_66/PlusOne.cpp.o
+
+Array/PlusOne_66/PlusOne.i: Array/PlusOne_66/PlusOne.cpp.i
+
+.PHONY : Array/PlusOne_66/PlusOne.i
+
+# target to preprocess a source file
+Array/PlusOne_66/PlusOne.cpp.i:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.i
+.PHONY : Array/PlusOne_66/PlusOne.cpp.i
+
+Array/PlusOne_66/PlusOne.s: Array/PlusOne_66/PlusOne.cpp.s
+
+.PHONY : Array/PlusOne_66/PlusOne.s
+
+# target to generate assembly for a file
+Array/PlusOne_66/PlusOne.cpp.s:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.s
+.PHONY : Array/PlusOne_66/PlusOne.cpp.s
+
+Array/RotateArray_189/RotateArray.o: Array/RotateArray_189/RotateArray.cpp.o
+
+.PHONY : Array/RotateArray_189/RotateArray.o
+
+# target to build an object file
+Array/RotateArray_189/RotateArray.cpp.o:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o
+.PHONY : Array/RotateArray_189/RotateArray.cpp.o
+
+Array/RotateArray_189/RotateArray.i: Array/RotateArray_189/RotateArray.cpp.i
+
+.PHONY : Array/RotateArray_189/RotateArray.i
+
+# target to preprocess a source file
+Array/RotateArray_189/RotateArray.cpp.i:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.i
+.PHONY : Array/RotateArray_189/RotateArray.cpp.i
+
+Array/RotateArray_189/RotateArray.s: Array/RotateArray_189/RotateArray.cpp.s
+
+.PHONY : Array/RotateArray_189/RotateArray.s
+
+# target to generate assembly for a file
+Array/RotateArray_189/RotateArray.cpp.s:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.s
+.PHONY : Array/RotateArray_189/RotateArray.cpp.s
+
 Array/SearchInsertPosition_35/SearchInsertPosition.o: Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o
 
 .PHONY : Array/SearchInsertPosition_35/SearchInsertPosition.o
@@ -186,6 +240,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LC_cplusplus"
+	@echo "... Array/PlusOne_66/PlusOne.o"
+	@echo "... Array/PlusOne_66/PlusOne.i"
+	@echo "... Array/PlusOne_66/PlusOne.s"
+	@echo "... Array/RotateArray_189/RotateArray.o"
+	@echo "... Array/RotateArray_189/RotateArray.i"
+	@echo "... Array/RotateArray_189/RotateArray.s"
 	@echo "... Array/SearchInsertPosition_35/SearchInsertPosition.o"
 	@echo "... Array/SearchInsertPosition_35/SearchInsertPosition.i"
 	@echo "... Array/SearchInsertPosition_35/SearchInsertPosition.s"

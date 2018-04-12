@@ -6,6 +6,26 @@
 
 #IncludeRegexTransform: 
 
+/Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.cpp
+PlusOne.h
+/Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.h
+
+/Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.h
+iostream
+-
+vector
+-
+
+/Users/EricGao/Desktop/LC_cplusplus/Array/RotateArray_189/RotateArray.cpp
+RotateArray.h
+/Users/EricGao/Desktop/LC_cplusplus/Array/RotateArray_189/RotateArray.h
+
+/Users/EricGao/Desktop/LC_cplusplus/Array/RotateArray_189/RotateArray.h
+iostream
+-
+vector
+-
+
 /Users/EricGao/Desktop/LC_cplusplus/Array/SearchInsertPosition_35/SearchInsertPosition.cpp
 SearchInsertPosition.h
 /Users/EricGao/Desktop/LC_cplusplus/Array/SearchInsertPosition_35/SearchInsertPosition.h
@@ -23,4 +43,8 @@ vector
 -
 Array/SearchInsertPosition_35/SearchInsertPosition.h
 /Users/EricGao/Desktop/LC_cplusplus/Array/SearchInsertPosition_35/SearchInsertPosition.h
+Array/PlusOne_66/PlusOne.h
+/Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.h
+Array/RotateArray_189/RotateArray.h
+/Users/EricGao/Desktop/LC_cplusplus/Array/RotateArray_189/RotateArray.h
 

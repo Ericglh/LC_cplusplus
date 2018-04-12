@@ -82,6 +82,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.cpp">
+			<Option target="LC_cplusplus"/>
+		</Unit>
+		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.h">
+			<Option target="LC_cplusplus"/>
+		</Unit>
+		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/RotateArray_189/RotateArray.cpp">
+			<Option target="LC_cplusplus"/>
+		</Unit>
+		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/RotateArray_189/RotateArray.h">
+			<Option target="LC_cplusplus"/>
+		</Unit>
 		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/SearchInsertPosition_35/SearchInsertPosition.cpp">
 			<Option target="LC_cplusplus"/>
 		</Unit>

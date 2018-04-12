@@ -105,19 +105,71 @@ CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.c
 CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o
 
 
+CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
+CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o: ../Array/PlusOne_66/PlusOne.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.cpp
+
+CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.cpp > CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.i
+
+CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.cpp -o CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.s
+
+CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.requires:
+
+.PHONY : CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.requires
+
+CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.provides.build
+.PHONY : CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.provides
+
+CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o
+
+
+CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
+CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o: ../Array/RotateArray_189/RotateArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Array/RotateArray_189/RotateArray.cpp
+
+CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Array/RotateArray_189/RotateArray.cpp > CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.i
+
+CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Array/RotateArray_189/RotateArray.cpp -o CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.s
+
+CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.requires:
+
+.PHONY : CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.requires
+
+CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.provides.build
+.PHONY : CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.provides
+
+CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o
+
+
 # Object files for target LC_cplusplus
 LC_cplusplus_OBJECTS = \
 "CMakeFiles/LC_cplusplus.dir/main.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o"
+"CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o" \
+"CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o" \
+"CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o"
 
 # External object files for target LC_cplusplus
 LC_cplusplus_EXTERNAL_OBJECTS =
 
 LC_cplusplus: CMakeFiles/LC_cplusplus.dir/main.cpp.o
 LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o
+LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o
+LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o
 LC_cplusplus: CMakeFiles/LC_cplusplus.dir/build.make
 LC_cplusplus: CMakeFiles/LC_cplusplus.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable LC_cplusplus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable LC_cplusplus"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LC_cplusplus.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -127,6 +179,8 @@ CMakeFiles/LC_cplusplus.dir/build: LC_cplusplus
 
 CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/main.cpp.o.requires
 CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o.requires
+CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.requires
+CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.requires
 
 .PHONY : CMakeFiles/LC_cplusplus.dir/requires
 
