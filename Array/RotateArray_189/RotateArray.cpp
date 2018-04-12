@@ -10,21 +10,27 @@ void RotateArray::rotate(vector<int>& nums, int k){
     int step = k % nums.size();
     int index = 0;
     int swapTmp = nums[step];
-    int swapTmp1 = 2;
     for (int i = 0; i < nums.size(); ++i) {
         cout << nums[i] << endl;
     }
 
     cout << "-----------" << endl;
-    while (count <= nums.size()) {
-        swap(&nums[1], &nums[2]);
-        index += step;
-        if (index >= nums.size()) {
-            index %= nums.size();
+//    while (count <= nums.size()) {
+//        swap(swapTmp, nums[count]);
+//        index += step;
+//        if (index >= nums.size()) {
+//            index %= nums.size();
+//
+//        }
+//        count++;
+//    }
+//    for (int i = 0; i < nums.size(); ++i) {
+//        cout << nums[i] << endl;
+//    }
+    reverse(nums.begin(), nums.end());
 
-        }
-        count++;
-    }
+    reverse(nums.begin(), nums.begin() + k);
+    reverse(nums.begin() + k, nums.end());
     for (int i = 0; i < nums.size(); ++i) {
         cout << nums[i] << endl;
     }

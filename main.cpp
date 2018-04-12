@@ -3,6 +3,7 @@
 #include "Array/SearchInsertPosition_35/SearchInsertPosition.h"
 #include "Array/PlusOne_66/PlusOne.h"
 #include "Array/RotateArray_189/RotateArray.h"
+#include "Array/PascalTriangle_119"
 
 using namespace std;
 
@@ -41,4 +42,7 @@ int main() {
     rotateArray.rotate(input, 2);
 
     return 0;
+
+
+
 }

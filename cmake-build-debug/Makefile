@@ -123,6 +123,33 @@ LC_cplusplus/fast:
 	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/build
 .PHONY : LC_cplusplus/fast
 
+Array/PascalTriangle_119/Solution.o: Array/PascalTriangle_119/Solution.cpp.o
+
+.PHONY : Array/PascalTriangle_119/Solution.o
+
+# target to build an object file
+Array/PascalTriangle_119/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o
+.PHONY : Array/PascalTriangle_119/Solution.cpp.o
+
+Array/PascalTriangle_119/Solution.i: Array/PascalTriangle_119/Solution.cpp.i
+
+.PHONY : Array/PascalTriangle_119/Solution.i
+
+# target to preprocess a source file
+Array/PascalTriangle_119/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.i
+.PHONY : Array/PascalTriangle_119/Solution.cpp.i
+
+Array/PascalTriangle_119/Solution.s: Array/PascalTriangle_119/Solution.cpp.s
+
+.PHONY : Array/PascalTriangle_119/Solution.s
+
+# target to generate assembly for a file
+Array/PascalTriangle_119/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.s
+.PHONY : Array/PascalTriangle_119/Solution.cpp.s
+
 Array/PlusOne_66/PlusOne.o: Array/PlusOne_66/PlusOne.cpp.o
 
 .PHONY : Array/PlusOne_66/PlusOne.o
@@ -204,6 +231,60 @@ Array/SearchInsertPosition_35/SearchInsertPosition.cpp.s:
 	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.s
 .PHONY : Array/SearchInsertPosition_35/SearchInsertPosition.cpp.s
 
+Array/TwoSumInputArraySorted_167/Solution.o: Array/TwoSumInputArraySorted_167/Solution.cpp.o
+
+.PHONY : Array/TwoSumInputArraySorted_167/Solution.o
+
+# target to build an object file
+Array/TwoSumInputArraySorted_167/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o
+.PHONY : Array/TwoSumInputArraySorted_167/Solution.cpp.o
+
+Array/TwoSumInputArraySorted_167/Solution.i: Array/TwoSumInputArraySorted_167/Solution.cpp.i
+
+.PHONY : Array/TwoSumInputArraySorted_167/Solution.i
+
+# target to preprocess a source file
+Array/TwoSumInputArraySorted_167/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.i
+.PHONY : Array/TwoSumInputArraySorted_167/Solution.cpp.i
+
+Array/TwoSumInputArraySorted_167/Solution.s: Array/TwoSumInputArraySorted_167/Solution.cpp.s
+
+.PHONY : Array/TwoSumInputArraySorted_167/Solution.s
+
+# target to generate assembly for a file
+Array/TwoSumInputArraySorted_167/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.s
+.PHONY : Array/TwoSumInputArraySorted_167/Solution.cpp.s
+
+Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.o: Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o
+
+Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.i: Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.i:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.i
+
+Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.s: Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.s:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -240,6 +321,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LC_cplusplus"
+	@echo "... Array/PascalTriangle_119/Solution.o"
+	@echo "... Array/PascalTriangle_119/Solution.i"
+	@echo "... Array/PascalTriangle_119/Solution.s"
 	@echo "... Array/PlusOne_66/PlusOne.o"
 	@echo "... Array/PlusOne_66/PlusOne.i"
 	@echo "... Array/PlusOne_66/PlusOne.s"
@@ -249,6 +333,12 @@ help:
 	@echo "... Array/SearchInsertPosition_35/SearchInsertPosition.o"
 	@echo "... Array/SearchInsertPosition_35/SearchInsertPosition.i"
 	@echo "... Array/SearchInsertPosition_35/SearchInsertPosition.s"
+	@echo "... Array/TwoSumInputArraySorted_167/Solution.o"
+	@echo "... Array/TwoSumInputArraySorted_167/Solution.i"
+	@echo "... Array/TwoSumInputArraySorted_167/Solution.s"
+	@echo "... Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.o"
+	@echo "... Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.i"
+	@echo "... Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+/Users/EricGao/Desktop/LC_cplusplus/Array/PascalTriangle_119/Solution.cpp
+iostream
+-
+vector
+-
+
 /Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.cpp
 PlusOne.h
 /Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.h
@@ -36,6 +42,20 @@ iostream
 vector
 -
 
+/Users/EricGao/Desktop/LC_cplusplus/Array/TwoSumInputArraySorted_167/Solution.cpp
+iostream
+-
+vector
+-
+
+/Users/EricGao/Desktop/LC_cplusplus/Cracking the Coding Interview/Arrays and Strings/CheckPermutation.cpp
+iostream
+-
+string
+-
+unordered_set
+-
+
 /Users/EricGao/Desktop/LC_cplusplus/main.cpp
 iostream
 -
@@ -47,4 +67,6 @@ Array/PlusOne_66/PlusOne.h
 /Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.h
 Array/RotateArray_189/RotateArray.h
 /Users/EricGao/Desktop/LC_cplusplus/Array/RotateArray_189/RotateArray.h
+Array/PascalTriangle_119
+/Users/EricGao/Desktop/LC_cplusplus/Array/PascalTriangle_119
 
