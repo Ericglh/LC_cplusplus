@@ -6,6 +6,9 @@
 using namespace std;
 
 vector<int> getRow(int rowIndex) {
+    int a[5];
+    cout << sizeof(a);
+
     vector<int> res;
     res.push_back(1);
     if (rowIndex == 0) {

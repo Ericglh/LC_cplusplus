@@ -123,6 +123,33 @@ LC_cplusplus/fast:
 	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/build
 .PHONY : LC_cplusplus/fast
 
+Array/MoveZeroes_283/Solution.o: Array/MoveZeroes_283/Solution.cpp.o
+
+.PHONY : Array/MoveZeroes_283/Solution.o
+
+# target to build an object file
+Array/MoveZeroes_283/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o
+.PHONY : Array/MoveZeroes_283/Solution.cpp.o
+
+Array/MoveZeroes_283/Solution.i: Array/MoveZeroes_283/Solution.cpp.i
+
+.PHONY : Array/MoveZeroes_283/Solution.i
+
+# target to preprocess a source file
+Array/MoveZeroes_283/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.i
+.PHONY : Array/MoveZeroes_283/Solution.cpp.i
+
+Array/MoveZeroes_283/Solution.s: Array/MoveZeroes_283/Solution.cpp.s
+
+.PHONY : Array/MoveZeroes_283/Solution.s
+
+# target to generate assembly for a file
+Array/MoveZeroes_283/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.s
+.PHONY : Array/MoveZeroes_283/Solution.cpp.s
+
 Array/PascalTriangle_119/Solution.o: Array/PascalTriangle_119/Solution.cpp.o
 
 .PHONY : Array/PascalTriangle_119/Solution.o
@@ -176,6 +203,33 @@ Array/PlusOne_66/PlusOne.s: Array/PlusOne_66/PlusOne.cpp.s
 Array/PlusOne_66/PlusOne.cpp.s:
 	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.s
 .PHONY : Array/PlusOne_66/PlusOne.cpp.s
+
+Array/RemoveElement_27/Solution.o: Array/RemoveElement_27/Solution.cpp.o
+
+.PHONY : Array/RemoveElement_27/Solution.o
+
+# target to build an object file
+Array/RemoveElement_27/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o
+.PHONY : Array/RemoveElement_27/Solution.cpp.o
+
+Array/RemoveElement_27/Solution.i: Array/RemoveElement_27/Solution.cpp.i
+
+.PHONY : Array/RemoveElement_27/Solution.i
+
+# target to preprocess a source file
+Array/RemoveElement_27/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.i
+.PHONY : Array/RemoveElement_27/Solution.cpp.i
+
+Array/RemoveElement_27/Solution.s: Array/RemoveElement_27/Solution.cpp.s
+
+.PHONY : Array/RemoveElement_27/Solution.s
+
+# target to generate assembly for a file
+Array/RemoveElement_27/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.s
+.PHONY : Array/RemoveElement_27/Solution.cpp.s
 
 Array/RotateArray_189/RotateArray.o: Array/RotateArray_189/RotateArray.cpp.o
 
@@ -321,12 +375,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LC_cplusplus"
+	@echo "... Array/MoveZeroes_283/Solution.o"
+	@echo "... Array/MoveZeroes_283/Solution.i"
+	@echo "... Array/MoveZeroes_283/Solution.s"
 	@echo "... Array/PascalTriangle_119/Solution.o"
 	@echo "... Array/PascalTriangle_119/Solution.i"
 	@echo "... Array/PascalTriangle_119/Solution.s"
 	@echo "... Array/PlusOne_66/PlusOne.o"
 	@echo "... Array/PlusOne_66/PlusOne.i"
 	@echo "... Array/PlusOne_66/PlusOne.s"
+	@echo "... Array/RemoveElement_27/Solution.o"
+	@echo "... Array/RemoveElement_27/Solution.i"
+	@echo "... Array/RemoveElement_27/Solution.s"
 	@echo "... Array/RotateArray_189/RotateArray.o"
 	@echo "... Array/RotateArray_189/RotateArray.i"
 	@echo "... Array/RotateArray_189/RotateArray.s"

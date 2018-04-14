@@ -225,6 +225,54 @@ CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o.provides: CM
 CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o
 
 
+CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
+CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o: ../Array/MoveZeroes_283/Solution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Array/MoveZeroes_283/Solution.cpp
+
+CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Array/MoveZeroes_283/Solution.cpp > CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.i
+
+CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Array/MoveZeroes_283/Solution.cpp -o CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.s
+
+CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.requires:
+
+.PHONY : CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.requires
+
+CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.provides.build
+.PHONY : CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.provides
+
+CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o
+
+
+CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
+CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o: ../Array/RemoveElement_27/Solution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Array/RemoveElement_27/Solution.cpp
+
+CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Array/RemoveElement_27/Solution.cpp > CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.i
+
+CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Array/RemoveElement_27/Solution.cpp -o CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.s
+
+CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.requires:
+
+.PHONY : CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.requires
+
+CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.provides.build
+.PHONY : CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.provides
+
+CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o
+
+
 # Object files for target LC_cplusplus
 LC_cplusplus_OBJECTS = \
 "CMakeFiles/LC_cplusplus.dir/main.cpp.o" \
@@ -233,7 +281,9 @@ LC_cplusplus_OBJECTS = \
 "CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o" \
 "CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o" \
 "CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o"
+"CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o" \
+"CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o" \
+"CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o"
 
 # External object files for target LC_cplusplus
 LC_cplusplus_EXTERNAL_OBJECTS =
@@ -245,9 +295,11 @@ LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.
 LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o
 LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o
 LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o
+LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o
+LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o
 LC_cplusplus: CMakeFiles/LC_cplusplus.dir/build.make
 LC_cplusplus: CMakeFiles/LC_cplusplus.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable LC_cplusplus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable LC_cplusplus"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LC_cplusplus.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -262,6 +314,8 @@ CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/RotateAr
 CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o.requires
 CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o.requires
 CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o.requires
+CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.requires
+CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.requires
 
 .PHONY : CMakeFiles/LC_cplusplus.dir/requires
 

@@ -6,6 +6,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o"
   "CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o"
   "CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o"
+  "CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o"
+  "CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o"
   "LC_cplusplus.pdb"
   "LC_cplusplus"
 )
