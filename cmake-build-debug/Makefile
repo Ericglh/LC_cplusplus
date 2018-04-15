@@ -123,6 +123,33 @@ LC_cplusplus/fast:
 	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/build
 .PHONY : LC_cplusplus/fast
 
+Array/BestTimeToBuyAndSellStock_121/Solution.o: Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o
+
+.PHONY : Array/BestTimeToBuyAndSellStock_121/Solution.o
+
+# target to build an object file
+Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o
+.PHONY : Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o
+
+Array/BestTimeToBuyAndSellStock_121/Solution.i: Array/BestTimeToBuyAndSellStock_121/Solution.cpp.i
+
+.PHONY : Array/BestTimeToBuyAndSellStock_121/Solution.i
+
+# target to preprocess a source file
+Array/BestTimeToBuyAndSellStock_121/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.i
+.PHONY : Array/BestTimeToBuyAndSellStock_121/Solution.cpp.i
+
+Array/BestTimeToBuyAndSellStock_121/Solution.s: Array/BestTimeToBuyAndSellStock_121/Solution.cpp.s
+
+.PHONY : Array/BestTimeToBuyAndSellStock_121/Solution.s
+
+# target to generate assembly for a file
+Array/BestTimeToBuyAndSellStock_121/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.s
+.PHONY : Array/BestTimeToBuyAndSellStock_121/Solution.cpp.s
+
 Array/MoveZeroes_283/Solution.o: Array/MoveZeroes_283/Solution.cpp.o
 
 .PHONY : Array/MoveZeroes_283/Solution.o
@@ -402,6 +429,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LC_cplusplus"
+	@echo "... Array/BestTimeToBuyAndSellStock_121/Solution.o"
+	@echo "... Array/BestTimeToBuyAndSellStock_121/Solution.i"
+	@echo "... Array/BestTimeToBuyAndSellStock_121/Solution.s"
 	@echo "... Array/MoveZeroes_283/Solution.o"
 	@echo "... Array/MoveZeroes_283/Solution.i"
 	@echo "... Array/MoveZeroes_283/Solution.s"
