@@ -10,6 +10,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o"
   "CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o"
   "CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o"
+  "CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o"
+  "CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o"
+  "CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o"
   "LC_cplusplus.pdb"
   "LC_cplusplus"
 )

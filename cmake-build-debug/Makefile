@@ -393,6 +393,87 @@ Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.s:
 	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.s
 
+Google/FindAnagramMapping_760/Solution.o: Google/FindAnagramMapping_760/Solution.cpp.o
+
+.PHONY : Google/FindAnagramMapping_760/Solution.o
+
+# target to build an object file
+Google/FindAnagramMapping_760/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o
+.PHONY : Google/FindAnagramMapping_760/Solution.cpp.o
+
+Google/FindAnagramMapping_760/Solution.i: Google/FindAnagramMapping_760/Solution.cpp.i
+
+.PHONY : Google/FindAnagramMapping_760/Solution.i
+
+# target to preprocess a source file
+Google/FindAnagramMapping_760/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.i
+.PHONY : Google/FindAnagramMapping_760/Solution.cpp.i
+
+Google/FindAnagramMapping_760/Solution.s: Google/FindAnagramMapping_760/Solution.cpp.s
+
+.PHONY : Google/FindAnagramMapping_760/Solution.s
+
+# target to generate assembly for a file
+Google/FindAnagramMapping_760/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.s
+.PHONY : Google/FindAnagramMapping_760/Solution.cpp.s
+
+Google/JudgeRouteCircle_657/Solution.o: Google/JudgeRouteCircle_657/Solution.cpp.o
+
+.PHONY : Google/JudgeRouteCircle_657/Solution.o
+
+# target to build an object file
+Google/JudgeRouteCircle_657/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o
+.PHONY : Google/JudgeRouteCircle_657/Solution.cpp.o
+
+Google/JudgeRouteCircle_657/Solution.i: Google/JudgeRouteCircle_657/Solution.cpp.i
+
+.PHONY : Google/JudgeRouteCircle_657/Solution.i
+
+# target to preprocess a source file
+Google/JudgeRouteCircle_657/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.i
+.PHONY : Google/JudgeRouteCircle_657/Solution.cpp.i
+
+Google/JudgeRouteCircle_657/Solution.s: Google/JudgeRouteCircle_657/Solution.cpp.s
+
+.PHONY : Google/JudgeRouteCircle_657/Solution.s
+
+# target to generate assembly for a file
+Google/JudgeRouteCircle_657/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.s
+.PHONY : Google/JudgeRouteCircle_657/Solution.cpp.s
+
+Google/LoggerRateLimiter_359/Solution.o: Google/LoggerRateLimiter_359/Solution.cpp.o
+
+.PHONY : Google/LoggerRateLimiter_359/Solution.o
+
+# target to build an object file
+Google/LoggerRateLimiter_359/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o
+.PHONY : Google/LoggerRateLimiter_359/Solution.cpp.o
+
+Google/LoggerRateLimiter_359/Solution.i: Google/LoggerRateLimiter_359/Solution.cpp.i
+
+.PHONY : Google/LoggerRateLimiter_359/Solution.i
+
+# target to preprocess a source file
+Google/LoggerRateLimiter_359/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.i
+.PHONY : Google/LoggerRateLimiter_359/Solution.cpp.i
+
+Google/LoggerRateLimiter_359/Solution.s: Google/LoggerRateLimiter_359/Solution.cpp.s
+
+.PHONY : Google/LoggerRateLimiter_359/Solution.s
+
+# target to generate assembly for a file
+Google/LoggerRateLimiter_359/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.s
+.PHONY : Google/LoggerRateLimiter_359/Solution.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -459,6 +540,15 @@ help:
 	@echo "... Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.o"
 	@echo "... Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.i"
 	@echo "... Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.s"
+	@echo "... Google/FindAnagramMapping_760/Solution.o"
+	@echo "... Google/FindAnagramMapping_760/Solution.i"
+	@echo "... Google/FindAnagramMapping_760/Solution.s"
+	@echo "... Google/JudgeRouteCircle_657/Solution.o"
+	@echo "... Google/JudgeRouteCircle_657/Solution.i"
+	@echo "... Google/JudgeRouteCircle_657/Solution.s"
+	@echo "... Google/LoggerRateLimiter_359/Solution.o"
+	@echo "... Google/LoggerRateLimiter_359/Solution.i"
+	@echo "... Google/LoggerRateLimiter_359/Solution.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

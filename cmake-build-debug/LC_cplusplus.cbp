@@ -121,6 +121,15 @@
 		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Cracking the Coding Interview/Arrays and Strings/CheckPermutation.cpp">
 			<Option target="LC_cplusplus"/>
 		</Unit>
+		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Google/FindAnagramMapping_760/Solution.cpp">
+			<Option target="LC_cplusplus"/>
+		</Unit>
+		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Google/JudgeRouteCircle_657/Solution.cpp">
+			<Option target="LC_cplusplus"/>
+		</Unit>
+		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Google/LoggerRateLimiter_359/Solution.cpp">
+			<Option target="LC_cplusplus"/>
+		</Unit>
 		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/main.cpp">
 			<Option target="LC_cplusplus"/>
 		</Unit>
