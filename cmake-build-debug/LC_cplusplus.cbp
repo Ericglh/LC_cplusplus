@@ -94,6 +94,9 @@
 		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.h">
 			<Option target="LC_cplusplus"/>
 		</Unit>
+		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp">
+			<Option target="LC_cplusplus"/>
+		</Unit>
 		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/RemoveElement_27/Solution.cpp">
 			<Option target="LC_cplusplus"/>
 		</Unit>

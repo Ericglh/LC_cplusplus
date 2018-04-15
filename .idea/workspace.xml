@@ -12,10 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cff3ed0-6c11-44d0-ae76-d3b167614a8c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/MoveZeroes_283/Solution.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/RemoveElement_27/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/PascalTriangle_119/Solution.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Array/PascalTriangle_119/Solution.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/build.make" afterDir="false" />
@@ -38,11 +36,23 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/RemoveElement_27/Solution.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
               <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding>
+                <element signature="e#45#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
               <folding>
                 <element signature="e#45#64#0" expanded="true" />
               </folding>
@@ -73,6 +83,7 @@
         <option value="$PROJECT_DIR$/Array/PascalTriangle_119/Solution.cpp" />
         <option value="$PROJECT_DIR$/Array/MoveZeroes_283/Solution.cpp" />
         <option value="$PROJECT_DIR$/Array/RemoveElement_27/Solution.cpp" />
+        <option value="$PROJECT_DIR$/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp" />
       </list>
     </option>
   </component>
@@ -96,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,7 +135,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,14 +189,16 @@
       <workItem from="1523579492752" duration="1054000" />
       <workItem from="1523601470883" duration="176000" />
       <workItem from="1523654759940" duration="2006000" />
+      <workItem from="1523755992642" duration="653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17557000" />
+    <option name="totallyTimeSpent" value="18210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="145" y="23" width="1289" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16369279" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -214,13 +227,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Array/RemoveElement_27/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#45#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Array/PascalTriangle_119/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#45#64#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -228,9 +248,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#45#64#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -238,9 +255,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-          <folding>
-            <element signature="e#45#64#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -427,9 +441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="e#45#64#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -437,9 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#45#64#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -447,6 +455,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#45#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
           <folding>
             <element signature="e#45#64#0" expanded="true" />
           </folding>
