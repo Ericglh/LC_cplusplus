@@ -3,7 +3,6 @@
 #include "Array/SearchInsertPosition_35/SearchInsertPosition.h"
 #include "Array/PlusOne_66/PlusOne.h"
 #include "Array/RotateArray_189/RotateArray.h"
-#include "Array/PascalTriangle_119"
 
 using namespace std;
 
@@ -34,14 +33,6 @@ int main() {
     /*
      *  Array.RotateArray
      */
-
-
-    int array[] = {1,2,3,4,5,6};
-    vector<int> input (array, array + 6);
-    RotateArray rotateArray;
-    rotateArray.rotate(input, 2);
-
-    return 0;
 
 
 

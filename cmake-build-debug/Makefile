@@ -474,6 +474,33 @@ Google/LoggerRateLimiter_359/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.s
 .PHONY : Google/LoggerRateLimiter_359/Solution.cpp.s
 
+Google/MovingAveragefromDataStream_346/Solution.o: Google/MovingAveragefromDataStream_346/Solution.cpp.o
+
+.PHONY : Google/MovingAveragefromDataStream_346/Solution.o
+
+# target to build an object file
+Google/MovingAveragefromDataStream_346/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o
+.PHONY : Google/MovingAveragefromDataStream_346/Solution.cpp.o
+
+Google/MovingAveragefromDataStream_346/Solution.i: Google/MovingAveragefromDataStream_346/Solution.cpp.i
+
+.PHONY : Google/MovingAveragefromDataStream_346/Solution.i
+
+# target to preprocess a source file
+Google/MovingAveragefromDataStream_346/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.i
+.PHONY : Google/MovingAveragefromDataStream_346/Solution.cpp.i
+
+Google/MovingAveragefromDataStream_346/Solution.s: Google/MovingAveragefromDataStream_346/Solution.cpp.s
+
+.PHONY : Google/MovingAveragefromDataStream_346/Solution.s
+
+# target to generate assembly for a file
+Google/MovingAveragefromDataStream_346/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.s
+.PHONY : Google/MovingAveragefromDataStream_346/Solution.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -549,6 +576,9 @@ help:
 	@echo "... Google/LoggerRateLimiter_359/Solution.o"
 	@echo "... Google/LoggerRateLimiter_359/Solution.i"
 	@echo "... Google/LoggerRateLimiter_359/Solution.s"
+	@echo "... Google/MovingAveragefromDataStream_346/Solution.o"
+	@echo "... Google/MovingAveragefromDataStream_346/Solution.i"
+	@echo "... Google/MovingAveragefromDataStream_346/Solution.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

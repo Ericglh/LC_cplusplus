@@ -17,6 +17,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/EricGao/Desktop/LC_cplusplus/Google/FindAnagramMapping_760/Solution.cpp" "/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o"
   "/Users/EricGao/Desktop/LC_cplusplus/Google/JudgeRouteCircle_657/Solution.cpp" "/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o"
   "/Users/EricGao/Desktop/LC_cplusplus/Google/LoggerRateLimiter_359/Solution.cpp" "/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o"
+  "/Users/EricGao/Desktop/LC_cplusplus/Google/MovingAveragefromDataStream_346/Solution.cpp" "/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o"
   "/Users/EricGao/Desktop/LC_cplusplus/main.cpp" "/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
