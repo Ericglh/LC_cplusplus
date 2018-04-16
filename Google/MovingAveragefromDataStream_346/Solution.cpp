@@ -12,7 +12,7 @@ int total;
 double res;
 vector<int> tmpArr;
 double ave;
-MovingAverage(int size) {
+void MovingAverage(int size) {
     tmpArr.clear();
     tmpArr.resize(size);
     curIndex = 0;

@@ -81,381 +81,43 @@ CMakeFiles/LC_cplusplus.dir/main.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/mai
 CMakeFiles/LC_cplusplus.dir/main.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/main.cpp.o
 
 
-CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o: ../Array/SearchInsertPosition_35/SearchInsertPosition.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Array/SearchInsertPosition_35/SearchInsertPosition.cpp
+CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
+CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o: ../Google/PalindromePermutation_266/Solution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Google/PalindromePermutation_266/Solution.cpp
 
-CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Array/SearchInsertPosition_35/SearchInsertPosition.cpp > CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.i
+CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Google/PalindromePermutation_266/Solution.cpp > CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.i
 
-CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Array/SearchInsertPosition_35/SearchInsertPosition.cpp -o CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.s
+CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Google/PalindromePermutation_266/Solution.cpp -o CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.s
 
-CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o.requires:
+CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.requires:
 
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o.requires
+.PHONY : CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.requires
 
-CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o.provides
+CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.provides.build
+.PHONY : CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.provides
 
-CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o: ../Array/PlusOne_66/PlusOne.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.cpp
-
-CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.cpp > CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.cpp -o CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o: ../Array/RotateArray_189/RotateArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Array/RotateArray_189/RotateArray.cpp
-
-CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Array/RotateArray_189/RotateArray.cpp > CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Array/RotateArray_189/RotateArray.cpp -o CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o: ../Cracking\ the\ Coding\ Interview/Arrays\ and\ Strings/CheckPermutation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o -c "/Users/EricGao/Desktop/LC_cplusplus/Cracking the Coding Interview/Arrays and Strings/CheckPermutation.cpp"
-
-CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/EricGao/Desktop/LC_cplusplus/Cracking the Coding Interview/Arrays and Strings/CheckPermutation.cpp" > CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/EricGao/Desktop/LC_cplusplus/Cracking the Coding Interview/Arrays and Strings/CheckPermutation.cpp" -o CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o: ../Array/TwoSumInputArraySorted_167/Solution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Array/TwoSumInputArraySorted_167/Solution.cpp
-
-CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Array/TwoSumInputArraySorted_167/Solution.cpp > CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Array/TwoSumInputArraySorted_167/Solution.cpp -o CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o: ../Array/PascalTriangle_119/Solution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Array/PascalTriangle_119/Solution.cpp
-
-CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Array/PascalTriangle_119/Solution.cpp > CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Array/PascalTriangle_119/Solution.cpp -o CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o: ../Array/MoveZeroes_283/Solution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Array/MoveZeroes_283/Solution.cpp
-
-CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Array/MoveZeroes_283/Solution.cpp > CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Array/MoveZeroes_283/Solution.cpp -o CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o: ../Array/RemoveElement_27/Solution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Array/RemoveElement_27/Solution.cpp
-
-CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Array/RemoveElement_27/Solution.cpp > CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Array/RemoveElement_27/Solution.cpp -o CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o: ../Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp
-
-CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp > CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp -o CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o: ../Array/BestTimeToBuyAndSellStock_121/Solution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Array/BestTimeToBuyAndSellStock_121/Solution.cpp
-
-CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Array/BestTimeToBuyAndSellStock_121/Solution.cpp > CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Array/BestTimeToBuyAndSellStock_121/Solution.cpp -o CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o: ../Google/FindAnagramMapping_760/Solution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Google/FindAnagramMapping_760/Solution.cpp
-
-CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Google/FindAnagramMapping_760/Solution.cpp > CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Google/FindAnagramMapping_760/Solution.cpp -o CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o: ../Google/JudgeRouteCircle_657/Solution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Google/JudgeRouteCircle_657/Solution.cpp
-
-CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Google/JudgeRouteCircle_657/Solution.cpp > CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Google/JudgeRouteCircle_657/Solution.cpp -o CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o: ../Google/LoggerRateLimiter_359/Solution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Google/LoggerRateLimiter_359/Solution.cpp
-
-CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Google/LoggerRateLimiter_359/Solution.cpp > CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Google/LoggerRateLimiter_359/Solution.cpp -o CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o: ../Google/MovingAveragefromDataStream_346/Solution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Google/MovingAveragefromDataStream_346/Solution.cpp
-
-CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Google/MovingAveragefromDataStream_346/Solution.cpp > CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Google/MovingAveragefromDataStream_346/Solution.cpp -o CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o
+CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o
 
 
 # Object files for target LC_cplusplus
 LC_cplusplus_OBJECTS = \
 "CMakeFiles/LC_cplusplus.dir/main.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o"
+"CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o"
 
 # External object files for target LC_cplusplus
 LC_cplusplus_EXTERNAL_OBJECTS =
 
 LC_cplusplus: CMakeFiles/LC_cplusplus.dir/main.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o
+LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o
 LC_cplusplus: CMakeFiles/LC_cplusplus.dir/build.make
 LC_cplusplus: CMakeFiles/LC_cplusplus.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable LC_cplusplus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable LC_cplusplus"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LC_cplusplus.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -464,20 +126,7 @@ CMakeFiles/LC_cplusplus.dir/build: LC_cplusplus
 .PHONY : CMakeFiles/LC_cplusplus.dir/build
 
 CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/main.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/SearchInsertPosition_35/SearchInsertPosition.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/PlusOne_66/PlusOne.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/RotateArray_189/RotateArray.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Cracking_the_Coding_Interview/Arrays_and_Strings/CheckPermutation.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/TwoSumInputArraySorted_167/Solution.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/PascalTriangle_119/Solution.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/MoveZeroes_283/Solution.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/RemoveElement_27/Solution.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Array/BestTimeToBuyAndSellStock_121/Solution.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Google/FindAnagramMapping_760/Solution.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Google/JudgeRouteCircle_657/Solution.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Google/LoggerRateLimiter_359/Solution.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Google/MovingAveragefromDataStream_346/Solution.cpp.o.requires
+CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.requires
 
 .PHONY : CMakeFiles/LC_cplusplus.dir/requires
 

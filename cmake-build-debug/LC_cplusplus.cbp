@@ -82,55 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/BestTimeToBuyAndSellStock_121/Solution.cpp">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/MoveZeroes_283/Solution.cpp">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/PascalTriangle_119/Solution.cpp">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.cpp">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/PlusOne_66/PlusOne.h">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/RemoveDuplicatesFromSortedArray_26/Solution.cpp">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/RemoveElement_27/Solution.cpp">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/RotateArray_189/RotateArray.cpp">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/RotateArray_189/RotateArray.h">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/SearchInsertPosition_35/SearchInsertPosition.cpp">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/SearchInsertPosition_35/SearchInsertPosition.h">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Array/TwoSumInputArraySorted_167/Solution.cpp">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Cracking the Coding Interview/Arrays and Strings/CheckPermutation.cpp">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Google/FindAnagramMapping_760/Solution.cpp">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Google/JudgeRouteCircle_657/Solution.cpp">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Google/LoggerRateLimiter_359/Solution.cpp">
-			<Option target="LC_cplusplus"/>
-		</Unit>
-		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Google/MovingAveragefromDataStream_346/Solution.cpp">
+		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Google/PalindromePermutation_266/Solution.cpp">
 			<Option target="LC_cplusplus"/>
 		</Unit>
 		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/main.cpp">
