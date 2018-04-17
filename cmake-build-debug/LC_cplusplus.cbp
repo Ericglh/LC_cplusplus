@@ -82,10 +82,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Google/IslandPerimeter_463/Solution.cpp">
+			<Option target="LC_cplusplus"/>
+		</Unit>
 		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/Google/PalindromePermutation_266/Solution.cpp">
 			<Option target="LC_cplusplus"/>
 		</Unit>
 		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/LinkedList/DesignLinkedList/DesignLinkedList.cpp">
+			<Option target="LC_cplusplus"/>
+		</Unit>
+		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp">
 			<Option target="LC_cplusplus"/>
 		</Unit>
 		<Unit filename="/Users/EricGao/Desktop/LC_cplusplus/main.cpp">

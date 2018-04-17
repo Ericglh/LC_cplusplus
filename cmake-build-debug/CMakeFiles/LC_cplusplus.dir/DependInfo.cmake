@@ -4,8 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/EricGao/Desktop/LC_cplusplus/Google/IslandPerimeter_463/Solution.cpp" "/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o"
   "/Users/EricGao/Desktop/LC_cplusplus/Google/PalindromePermutation_266/Solution.cpp" "/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o"
   "/Users/EricGao/Desktop/LC_cplusplus/LinkedList/DesignLinkedList/DesignLinkedList.cpp" "/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o"
+  "/Users/EricGao/Desktop/LC_cplusplus/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp" "/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o"
   "/Users/EricGao/Desktop/LC_cplusplus/main.cpp" "/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
