@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/LC_cplusplus.dir/main.cpp.o"
   "CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o"
+  "CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o"
   "LC_cplusplus.pdb"
   "LC_cplusplus"
 )

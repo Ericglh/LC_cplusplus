@@ -150,6 +150,33 @@ Google/PalindromePermutation_266/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.s
 .PHONY : Google/PalindromePermutation_266/Solution.cpp.s
 
+LinkedList/DesignLinkedList/DesignLinkedList.o: LinkedList/DesignLinkedList/DesignLinkedList.cpp.o
+
+.PHONY : LinkedList/DesignLinkedList/DesignLinkedList.o
+
+# target to build an object file
+LinkedList/DesignLinkedList/DesignLinkedList.cpp.o:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o
+.PHONY : LinkedList/DesignLinkedList/DesignLinkedList.cpp.o
+
+LinkedList/DesignLinkedList/DesignLinkedList.i: LinkedList/DesignLinkedList/DesignLinkedList.cpp.i
+
+.PHONY : LinkedList/DesignLinkedList/DesignLinkedList.i
+
+# target to preprocess a source file
+LinkedList/DesignLinkedList/DesignLinkedList.cpp.i:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.i
+.PHONY : LinkedList/DesignLinkedList/DesignLinkedList.cpp.i
+
+LinkedList/DesignLinkedList/DesignLinkedList.s: LinkedList/DesignLinkedList/DesignLinkedList.cpp.s
+
+.PHONY : LinkedList/DesignLinkedList/DesignLinkedList.s
+
+# target to generate assembly for a file
+LinkedList/DesignLinkedList/DesignLinkedList.cpp.s:
+	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.s
+.PHONY : LinkedList/DesignLinkedList/DesignLinkedList.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -189,6 +216,9 @@ help:
 	@echo "... Google/PalindromePermutation_266/Solution.o"
 	@echo "... Google/PalindromePermutation_266/Solution.i"
 	@echo "... Google/PalindromePermutation_266/Solution.s"
+	@echo "... LinkedList/DesignLinkedList/DesignLinkedList.o"
+	@echo "... LinkedList/DesignLinkedList/DesignLinkedList.i"
+	@echo "... LinkedList/DesignLinkedList/DesignLinkedList.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
