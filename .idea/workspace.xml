@@ -12,23 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cff3ed0-6c11-44d0-ae76-d3b167614a8c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Google/FlipGame_293/Solution.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Google/LongestUncommonSubsequenceI_521/Solution.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Google/ToeplitzMatrix_766/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google/LargestTriangleArea_812/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google/MaxConsecutiveOnes_485/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google/SimilarRGBColor_800/Solution.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LC_cplusplus.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LC_cplusplus" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LC_cplusplus" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LC_cplusplus.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LC_cplusplus.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/LongestUncommonSubsequenceI_521/Solution.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Google/LongestUncommonSubsequenceI_521/Solution.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,10 +30,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Google/LongestUncommonSubsequenceI_521/Solution.cpp">
+        <entry file="file://$PROJECT_DIR$/Google/LargestTriangleArea_812/Solution.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+            <state relative-caret-position="216">
+              <caret line="12" column="80" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="80" />
               <folding>
                 <element signature="e#46#65#0" expanded="true" />
               </folding>
@@ -91,6 +79,9 @@
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/Google/LongestUncommonSubsequenceI_521/Solution.cpp" />
+        <option value="$PROJECT_DIR$/Google/MaxConsecutiveOnes_485/Solution.cpp" />
+        <option value="$PROJECT_DIR$/Google/SimilarRGBColor_800/Solution.cpp" />
+        <option value="$PROJECT_DIR$/Google/LargestTriangleArea_812/Solution.cpp" />
       </list>
     </option>
   </component>
@@ -125,12 +116,6 @@
               <item name="LC_cplusplus" type="b2602c69:ProjectViewProjectNode" />
               <item name="LC_cplusplus" type="462c0819:PsiDirectoryNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LC_cplusplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LC_cplusplus" type="462c0819:PsiDirectoryNode" />
-              <item name="Google" type="462c0819:PsiDirectoryNode" />
-              <item name="LongestUncommonSubsequenceI_521" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,12 +184,12 @@
       <workItem from="1524013462918" duration="2206000" />
       <workItem from="1524033305688" duration="490000" />
       <workItem from="1524077092618" duration="257000" />
-      <workItem from="1524110649717" duration="3000" />
+      <workItem from="1524110649717" duration="3011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34906000" />
+    <option name="totallyTimeSpent" value="37914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1379" height="820" extended-state="0" />
@@ -237,27 +222,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/RotateArray_189/RotateArray.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/RotateArray_189/RotateArray.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Arrays and Strings/CheckPermutation.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -559,8 +523,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Google/LongestUncommonSubsequenceI_521/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        <state relative-caret-position="54">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#46#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/SimilarRGBColor_800/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#45#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/MaxConsecutiveOnes_485/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#45#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/LargestTriangleArea_812/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="80" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="80" />
           <folding>
             <element signature="e#46#65#0" expanded="true" />
           </folding>
