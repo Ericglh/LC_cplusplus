@@ -123,114 +123,6 @@ LC_cplusplus/fast:
 	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/build
 .PHONY : LC_cplusplus/fast
 
-Google/IslandPerimeter_463/Solution.o: Google/IslandPerimeter_463/Solution.cpp.o
-
-.PHONY : Google/IslandPerimeter_463/Solution.o
-
-# target to build an object file
-Google/IslandPerimeter_463/Solution.cpp.o:
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o
-.PHONY : Google/IslandPerimeter_463/Solution.cpp.o
-
-Google/IslandPerimeter_463/Solution.i: Google/IslandPerimeter_463/Solution.cpp.i
-
-.PHONY : Google/IslandPerimeter_463/Solution.i
-
-# target to preprocess a source file
-Google/IslandPerimeter_463/Solution.cpp.i:
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.i
-.PHONY : Google/IslandPerimeter_463/Solution.cpp.i
-
-Google/IslandPerimeter_463/Solution.s: Google/IslandPerimeter_463/Solution.cpp.s
-
-.PHONY : Google/IslandPerimeter_463/Solution.s
-
-# target to generate assembly for a file
-Google/IslandPerimeter_463/Solution.cpp.s:
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.s
-.PHONY : Google/IslandPerimeter_463/Solution.cpp.s
-
-Google/PalindromePermutation_266/Solution.o: Google/PalindromePermutation_266/Solution.cpp.o
-
-.PHONY : Google/PalindromePermutation_266/Solution.o
-
-# target to build an object file
-Google/PalindromePermutation_266/Solution.cpp.o:
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o
-.PHONY : Google/PalindromePermutation_266/Solution.cpp.o
-
-Google/PalindromePermutation_266/Solution.i: Google/PalindromePermutation_266/Solution.cpp.i
-
-.PHONY : Google/PalindromePermutation_266/Solution.i
-
-# target to preprocess a source file
-Google/PalindromePermutation_266/Solution.cpp.i:
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.i
-.PHONY : Google/PalindromePermutation_266/Solution.cpp.i
-
-Google/PalindromePermutation_266/Solution.s: Google/PalindromePermutation_266/Solution.cpp.s
-
-.PHONY : Google/PalindromePermutation_266/Solution.s
-
-# target to generate assembly for a file
-Google/PalindromePermutation_266/Solution.cpp.s:
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.s
-.PHONY : Google/PalindromePermutation_266/Solution.cpp.s
-
-LinkedList/DesignLinkedList/DesignLinkedList.o: LinkedList/DesignLinkedList/DesignLinkedList.cpp.o
-
-.PHONY : LinkedList/DesignLinkedList/DesignLinkedList.o
-
-# target to build an object file
-LinkedList/DesignLinkedList/DesignLinkedList.cpp.o:
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o
-.PHONY : LinkedList/DesignLinkedList/DesignLinkedList.cpp.o
-
-LinkedList/DesignLinkedList/DesignLinkedList.i: LinkedList/DesignLinkedList/DesignLinkedList.cpp.i
-
-.PHONY : LinkedList/DesignLinkedList/DesignLinkedList.i
-
-# target to preprocess a source file
-LinkedList/DesignLinkedList/DesignLinkedList.cpp.i:
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.i
-.PHONY : LinkedList/DesignLinkedList/DesignLinkedList.cpp.i
-
-LinkedList/DesignLinkedList/DesignLinkedList.s: LinkedList/DesignLinkedList/DesignLinkedList.cpp.s
-
-.PHONY : LinkedList/DesignLinkedList/DesignLinkedList.s
-
-# target to generate assembly for a file
-LinkedList/DesignLinkedList/DesignLinkedList.cpp.s:
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.s
-.PHONY : LinkedList/DesignLinkedList/DesignLinkedList.cpp.s
-
-LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.o: LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o
-
-.PHONY : LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.o
-
-# target to build an object file
-LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o:
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o
-.PHONY : LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o
-
-LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.i: LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.i
-
-.PHONY : LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.i
-
-# target to preprocess a source file
-LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.i:
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.i
-.PHONY : LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.i
-
-LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.s: LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.s
-
-.PHONY : LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.s
-
-# target to generate assembly for a file
-LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.s:
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.s
-.PHONY : LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -267,18 +159,6 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LC_cplusplus"
-	@echo "... Google/IslandPerimeter_463/Solution.o"
-	@echo "... Google/IslandPerimeter_463/Solution.i"
-	@echo "... Google/IslandPerimeter_463/Solution.s"
-	@echo "... Google/PalindromePermutation_266/Solution.o"
-	@echo "... Google/PalindromePermutation_266/Solution.i"
-	@echo "... Google/PalindromePermutation_266/Solution.s"
-	@echo "... LinkedList/DesignLinkedList/DesignLinkedList.o"
-	@echo "... LinkedList/DesignLinkedList/DesignLinkedList.i"
-	@echo "... LinkedList/DesignLinkedList/DesignLinkedList.s"
-	@echo "... LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.o"
-	@echo "... LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.i"
-	@echo "... LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

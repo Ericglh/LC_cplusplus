@@ -81,121 +81,17 @@ CMakeFiles/LC_cplusplus.dir/main.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/mai
 CMakeFiles/LC_cplusplus.dir/main.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/main.cpp.o
 
 
-CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o: ../Google/PalindromePermutation_266/Solution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Google/PalindromePermutation_266/Solution.cpp
-
-CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Google/PalindromePermutation_266/Solution.cpp > CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Google/PalindromePermutation_266/Solution.cpp -o CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o: ../LinkedList/DesignLinkedList/DesignLinkedList.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/LinkedList/DesignLinkedList/DesignLinkedList.cpp
-
-CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/LinkedList/DesignLinkedList/DesignLinkedList.cpp > CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/LinkedList/DesignLinkedList/DesignLinkedList.cpp -o CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o: ../Google/IslandPerimeter_463/Solution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/Google/IslandPerimeter_463/Solution.cpp
-
-CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/Google/IslandPerimeter_463/Solution.cpp > CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/Google/IslandPerimeter_463/Solution.cpp -o CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o
-
-
-CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o: CMakeFiles/LC_cplusplus.dir/flags.make
-CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o: ../LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o -c /Users/EricGao/Desktop/LC_cplusplus/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp
-
-CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/EricGao/Desktop/LC_cplusplus/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp > CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.i
-
-CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/EricGao/Desktop/LC_cplusplus/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp -o CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.s
-
-CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o.requires:
-
-.PHONY : CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o.requires
-
-CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o.provides: CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LC_cplusplus.dir/build.make CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o.provides.build
-.PHONY : CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o.provides
-
-CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o.provides.build: CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o
-
-
 # Object files for target LC_cplusplus
 LC_cplusplus_OBJECTS = \
-"CMakeFiles/LC_cplusplus.dir/main.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o" \
-"CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o"
+"CMakeFiles/LC_cplusplus.dir/main.cpp.o"
 
 # External object files for target LC_cplusplus
 LC_cplusplus_EXTERNAL_OBJECTS =
 
 LC_cplusplus: CMakeFiles/LC_cplusplus.dir/main.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o
-LC_cplusplus: CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o
 LC_cplusplus: CMakeFiles/LC_cplusplus.dir/build.make
 LC_cplusplus: CMakeFiles/LC_cplusplus.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable LC_cplusplus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/EricGao/Desktop/LC_cplusplus/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LC_cplusplus"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LC_cplusplus.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -204,10 +100,6 @@ CMakeFiles/LC_cplusplus.dir/build: LC_cplusplus
 .PHONY : CMakeFiles/LC_cplusplus.dir/build
 
 CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/main.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Google/PalindromePermutation_266/Solution.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedList.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/Google/IslandPerimeter_463/Solution.cpp.o.requires
-CMakeFiles/LC_cplusplus.dir/requires: CMakeFiles/LC_cplusplus.dir/LinkedList/DesignLinkedList/DesignLinkedListWithDoubleLinkedList.cpp.o.requires
 
 .PHONY : CMakeFiles/LC_cplusplus.dir/requires
 
