@@ -12,11 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cff3ed0-6c11-44d0-ae76-d3b167614a8c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Google/LargestTriangleArea_812/Solution.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Google/MaxConsecutiveOnes_485/Solution.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Google/SimilarRGBColor_800/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google/DetectCapital_520/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google/FindAllNumbersDisappearedinanArray_448/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google/FindTheDifference_389/FindTheDifference_389.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Google/LongestUncommonSubsequenceI_521/Solution.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Google/LongestUncommonSubsequenceI_521/Solution.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,14 +28,20 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Google/LargestTriangleArea_812/Solution.cpp">
+      <file leaf-file-name="FindTheDifference_389.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Google/FindTheDifference_389/FindTheDifference_389.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="12" column="80" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="80" />
-              <folding>
-                <element signature="e#46#65#0" expanded="true" />
-              </folding>
+              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Google/FindAllNumbersDisappearedinanArray_448/Solution.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -82,6 +87,9 @@
         <option value="$PROJECT_DIR$/Google/MaxConsecutiveOnes_485/Solution.cpp" />
         <option value="$PROJECT_DIR$/Google/SimilarRGBColor_800/Solution.cpp" />
         <option value="$PROJECT_DIR$/Google/LargestTriangleArea_812/Solution.cpp" />
+        <option value="$PROJECT_DIR$/Google/DetectCapital_520/Solution.cpp" />
+        <option value="$PROJECT_DIR$/Google/FindTheDifference_389/FindTheDifference_389.cpp" />
+        <option value="$PROJECT_DIR$/Google/FindAllNumbersDisappearedinanArray_448/Solution.cpp" />
       </list>
     </option>
   </component>
@@ -96,9 +104,10 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1379" />
-    <option name="height" value="820" />
+    <option name="x" value="114" />
+    <option name="y" value="24" />
+    <option name="width" value="1304" />
+    <option name="height" value="819" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -133,6 +142,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Google/FindTheDifference_389" />
       <recent name="$PROJECT_DIR$/LinkedList/DesignLinkedList" />
       <recent name="$PROJECT_DIR$/Array/SearchInsertPosition_35" />
     </key>
@@ -184,18 +194,19 @@
       <workItem from="1524013462918" duration="2206000" />
       <workItem from="1524033305688" duration="490000" />
       <workItem from="1524077092618" duration="257000" />
-      <workItem from="1524110649717" duration="3011000" />
+      <workItem from="1524110649717" duration="3135000" />
+      <workItem from="1524259207308" duration="2228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37914000" />
+    <option name="totallyTimeSpent" value="40266000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1379" height="820" extended-state="0" />
+    <frame x="114" y="24" width="1304" height="819" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19651921" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17225254" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="CMake" order="11" weight="0.3297587" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -222,27 +233,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Arrays and Strings/CheckPermutation.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="28" lean-forward="true" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/RotateArray_189/RotateArray.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Array/RotateArray_189/RotateArray.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -525,9 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#46#65#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -535,9 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#45#64#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -551,13 +535,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Google/LargestTriangleArea_812/Solution.cpp">
+    <entry file="file://$PROJECT_DIR$/Google/DetectCapital_520/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="80" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="80" />
+        <state relative-caret-position="159">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
             <element signature="e#46#65#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/LargestTriangleArea_812/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding>
+            <element signature="e#46#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/FindTheDifference_389/FindTheDifference_389.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/FindAllNumbersDisappearedinanArray_448/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
