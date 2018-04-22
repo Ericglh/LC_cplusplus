@@ -12,7 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cff3ed0-6c11-44d0-ae76-d3b167614a8c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Google/RotatedDigits_788/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google/MinimumAbsoluteDifferenceinBST_530/Solution.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -44,14 +44,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Google/RotatedDigits_788/Solution.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="130">
-              <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
               <folding>
                 <element signature="e#47#66#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Google/MinimumAbsoluteDifferenceinBST_530/Solution.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -101,6 +110,7 @@
         <option value="$PROJECT_DIR$/Google/FindTheDifference_389/FindTheDifference_389.cpp" />
         <option value="$PROJECT_DIR$/Google/FindAllNumbersDisappearedinanArray_448/Solution.cpp" />
         <option value="$PROJECT_DIR$/Google/RotatedDigits_788/Solution.cpp" />
+        <option value="$PROJECT_DIR$/Google/MinimumAbsoluteDifferenceinBST_530/Solution.cpp" />
       </list>
     </option>
   </component>
@@ -115,7 +125,7 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="114" />
+    <option name="x" value="105" />
     <option name="y" value="24" />
     <option name="width" value="1304" />
     <option name="height" value="819" />
@@ -125,6 +135,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,13 +152,18 @@
               <item name="LC_cplusplus" type="b2602c69:ProjectViewProjectNode" />
               <item name="LC_cplusplus" type="462c0819:PsiDirectoryNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="MinimumAbsoluteDifferenceinBST_530" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LC_cplusplus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LC_cplusplus" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
               <item name="RotatedDigits_788" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,15 +229,16 @@
       <workItem from="1524077092618" duration="257000" />
       <workItem from="1524110649717" duration="3135000" />
       <workItem from="1524259207308" duration="2665000" />
-      <workItem from="1524275759574" duration="1248000" />
+      <workItem from="1524275759574" duration="1590000" />
+      <workItem from="1524355350297" duration="1934000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41951000" />
+    <option name="totallyTimeSpent" value="44227000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="114" y="24" width="1304" height="819" extended-state="0" />
+    <frame x="105" y="24" width="1304" height="819" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17225254" />
@@ -251,13 +268,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Array/RotateArray_189/RotateArray.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -540,9 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="e#46#65#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -577,10 +584,17 @@
     <entry file="file://$PROJECT_DIR$/Google/RotatedDigits_788/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
-          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
           <folding>
             <element signature="e#47#66#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/MinimumAbsoluteDifferenceinBST_530/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
