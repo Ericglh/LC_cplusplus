@@ -12,8 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cff3ed0-6c11-44d0-ae76-d3b167614a8c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Google/MinimumAbsoluteDifferenceinBST_530/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google/FirstUniqueCharacterinaString_387/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google/MinimumDistanceBetweenBSTNodes_783/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google/RelativeRanks_506/Solution.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/MinimumAbsoluteDifferenceinBST_530/Solution.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Google/MinimumAbsoluteDifferenceinBST_530/Solution.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,41 +29,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindTheDifference_389.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Google/FindTheDifference_389/FindTheDifference_389.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Google/FindAllNumbersDisappearedinanArray_448/Solution.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Google/RotatedDigits_788/Solution.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-              <folding>
-                <element signature="e#47#66#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Google/MinimumAbsoluteDifferenceinBST_530/Solution.cpp">
+        <entry file="file://$PROJECT_DIR$/Google/RelativeRanks_506/Solution.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="92">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding>
+                <element signature="e#46#65#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,6 +87,9 @@
         <option value="$PROJECT_DIR$/Google/FindAllNumbersDisappearedinanArray_448/Solution.cpp" />
         <option value="$PROJECT_DIR$/Google/RotatedDigits_788/Solution.cpp" />
         <option value="$PROJECT_DIR$/Google/MinimumAbsoluteDifferenceinBST_530/Solution.cpp" />
+        <option value="$PROJECT_DIR$/Google/MinimumDistanceBetweenBSTNodes_783/Solution.cpp" />
+        <option value="$PROJECT_DIR$/Google/FirstUniqueCharacterinaString_387/Solution.cpp" />
+        <option value="$PROJECT_DIR$/Google/RelativeRanks_506/Solution.cpp" />
       </list>
     </option>
   </component>
@@ -125,9 +104,9 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="105" />
+    <option name="x" value="63" />
     <option name="y" value="24" />
-    <option name="width" value="1304" />
+    <option name="width" value="1346" />
     <option name="height" value="819" />
   </component>
   <component name="ProjectView">
@@ -135,7 +114,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,12 +136,13 @@
               <item name="LC_cplusplus" type="b2602c69:ProjectViewProjectNode" />
               <item name="LC_cplusplus" type="462c0819:PsiDirectoryNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
-              <item name="RotatedDigits_788" type="462c0819:PsiDirectoryNode" />
+              <item name="MinimumDistanceBetweenBSTNodes_783" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,18 +209,19 @@
       <workItem from="1524110649717" duration="3135000" />
       <workItem from="1524259207308" duration="2665000" />
       <workItem from="1524275759574" duration="1590000" />
-      <workItem from="1524355350297" duration="1934000" />
+      <workItem from="1524355350297" duration="2583000" />
+      <workItem from="1524513565401" duration="4176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44227000" />
+    <option name="totallyTimeSpent" value="49052000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="105" y="24" width="1304" height="819" extended-state="0" />
+    <frame x="63" y="24" width="1346" height="819" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17225254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16679245" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="CMake" order="11" weight="0.3297587" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -268,27 +248,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Array/RotateArray_189/RotateArray.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/RotateArray_189/RotateArray.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.cpp" />
     <entry file="file://$PROJECT_DIR$/test.cpp" />
     <entry file="file://$PROJECT_DIR$/Array/SearchInsertPosition_35.cpp" />
@@ -560,10 +519,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Google/FindTheDifference_389/FindTheDifference_389.cpp">
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/unordered_set">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="81">
+          <caret line="335" column="28" selection-start-line="335" selection-start-column="28" selection-end-line="335" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -574,10 +533,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/unordered_set">
+    <entry file="file://$PROJECT_DIR$/Google/FindTheDifference_389/FindTheDifference_389.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="335" column="28" selection-start-line="335" selection-start-column="28" selection-end-line="335" selection-end-column="28" />
+        <state relative-caret-position="216">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -593,8 +552,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Google/MinimumAbsoluteDifferenceinBST_530/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="144">
+          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/MinimumDistanceBetweenBSTNodes_783/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/FirstUniqueCharacterinaString_387/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#45#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/RelativeRanks_506/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#46#65#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

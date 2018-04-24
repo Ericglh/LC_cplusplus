@@ -23,7 +23,13 @@ pair<int, int> traverse(TreeNode* node) {
     return res;
 }
 
-int getMinimumDifference(TreeNode* root) {
+//int getMinimumDifference(TreeNode* root) {
+//    diff = INT_MAX;
+//    pair<int, int> pair3 = traverse(root);
+//    return diff;
+//}
+
+int getMinimumDifference(TreeNode* root){
     diff = INT_MAX;
     pair<int, int> pair3 = traverse(root);
     return diff;
