@@ -12,8 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cff3ed0-6c11-44d0-ae76-d3b167614a8c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Google/LongestPalindrome_409/Solution.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Google/NumberofBoomerangs_447/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google/DiameterofBinaryTree_543/Solution.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -27,38 +26,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Google/RelativeRanks_506/Solution.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding>
-                <element signature="e#46#65#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Google/LongestPalindrome_409/Solution.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-              <folding>
-                <element signature="e#46#65#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Google/NumberofBoomerangs_447/Solution.cpp">
+        <entry file="file://$PROJECT_DIR$/Google/DiameterofBinaryTree_543/Solution.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-              <folding>
-                <element signature="e#46#65#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="198">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -114,6 +86,7 @@
         <option value="$PROJECT_DIR$/Google/RelativeRanks_506/Solution.cpp" />
         <option value="$PROJECT_DIR$/Google/LongestPalindrome_409/Solution.cpp" />
         <option value="$PROJECT_DIR$/Google/NumberofBoomerangs_447/Solution.cpp" />
+        <option value="$PROJECT_DIR$/Google/DiameterofBinaryTree_543/Solution.cpp" />
       </list>
     </option>
   </component>
@@ -224,11 +197,12 @@
       <workItem from="1524355350297" duration="2583000" />
       <workItem from="1524513565401" duration="4176000" />
       <workItem from="1524615171879" duration="3688000" />
+      <workItem from="1524867136043" duration="900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52740000" />
+    <option name="totallyTimeSpent" value="53640000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="24" width="1346" height="819" extended-state="0" />
@@ -261,7 +235,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Array/SearchInsertPosition_35.cpp" />
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -410,13 +383,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/include/stdlib.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="204" column="22" lean-forward="true" selection-start-line="204" selection-start-column="22" selection-end-line="204" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/include/stdlib.h" />
     <entry file="file://$PROJECT_DIR$/Google/MovingAveragefromDataStream_346/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -592,7 +559,7 @@
     <entry file="file://$PROJECT_DIR$/Google/LongestPalindrome_409/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding>
             <element signature="e#46#65#0" expanded="true" />
           </folding>
@@ -601,11 +568,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Google/NumberofBoomerangs_447/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-          <folding>
-            <element signature="e#46#65#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="359">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/DiameterofBinaryTree_543/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
