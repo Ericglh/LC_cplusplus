@@ -12,8 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cff3ed0-6c11-44d0-ae76-d3b167614a8c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Google/PowerofThree_326/Solution.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Google/PowerofTwo_231/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google/StrobogrammaticNumber_246/Solution.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -27,11 +26,23 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Google/PowerofThree_326/Solution.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
               <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Google/StrobogrammaticNumber_246/Solution.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding>
+                <element signature="e#46#63#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,6 +104,7 @@
         <option value="$PROJECT_DIR$/Google/AddStrings_415/Solution.cpp" />
         <option value="$PROJECT_DIR$/Google/PowerofTwo_231/Solution.cpp" />
         <option value="$PROJECT_DIR$/Google/PowerofThree_326/Solution.cpp" />
+        <option value="$PROJECT_DIR$/Google/StrobogrammaticNumber_246/Solution.cpp" />
       </list>
     </option>
   </component>
@@ -207,12 +219,12 @@
       <workItem from="1524867136043" duration="1129000" />
       <workItem from="1524946943689" duration="2282000" />
       <workItem from="1524953340945" duration="73000" />
-      <workItem from="1525116983754" duration="2278000" />
+      <workItem from="1525116983754" duration="3612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58502000" />
+    <option name="totallyTimeSpent" value="59836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="24" width="1377" height="819" extended-state="0" />
@@ -245,13 +257,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Array/PlusOne_66/PlusOne.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/__bit_reference">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -587,6 +592,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google/StrobogrammaticNumber_246/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#46#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
